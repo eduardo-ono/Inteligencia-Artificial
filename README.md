@@ -43,11 +43,13 @@ Os principais objetivos são: Desenvolver sistemas inteligentes combinando solu�
 
 ## Filmes e Documentários Recomendados
 
-Trailer | Título
-| --- | --- |
-[![Trailer](https://img.youtube.com/vi/nuPZUUED5uk/default.jpg)](https://youtu.be/nuPZUUED5uk) | The Imitation Game (2014) / O Jogo da Imitação
-[![Trailer](https://img.youtube.com/vi/280qnrHpuc8/default.jpg)](https://youtu.be/280qnrHpuc8) | Transcendence (2014) / Transcendence: A Revolução
-[![Trailer](https://img.youtube.com/vi/2ctMc4DFpik/default.jpg)](https://youtu.be/2ctMc4DFpik) | Eva (2015)
+Trailer | Descrição |
+| :-: | --- |
+[![img](https://img.youtube.com/vi/pm7qlQ2E0iE/default.jpg)](https://www.youtube.com/watch?v=pm7qlQ2E0iE) | A.I.: Artificial Intelligence (2001)
+[![img](https://img.youtube.com/vi/nuPZUUED5uk/default.jpg)](https://youtu.be/nuPZUUED5uk) | The Imitation Game (2014) / O Jogo da Imitação
+[![img](https://img.youtube.com/vi/280qnrHpuc8/default.jpg)](https://youtu.be/280qnrHpuc8) | Transcendence (2014) / Transcendence: A Revolução
+[![img](https://img.youtube.com/vi/mRfXV87B9WY/default.jpg)](https://www.youtube.com/watch?v=mRfXV87B9WY) | I Am Mother (2019)
+[![img](https://img.youtube.com/vi/GaBX2sY6V2E/default.jpg)](https://youtu.be/GaBX2sY6V2E) | Eva (2015)
 
 * [FRONTLINE PBS | Official] [In the Age of AI (full film) - FRONTLINE](https://www.youtube.com/watch?v=5dZ_lvDgevk) (YouTube, 1:54:16)
 * [Bloomberg QuickTake] [The Rise of AI](https://www.youtube.com/watch?v=Dk7h22mRYHQ) (YouTube, 51:25)
